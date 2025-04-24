@@ -7,6 +7,7 @@ public class Main {
 
         // Mostrar información
         vehiculo1.vehiculoInformacion();
+        vehiculo1.vehiculoInformacion();
         vehiculo2.vehiculoInformacion();
         vehiculo3.vehiculoInformacion();
 
