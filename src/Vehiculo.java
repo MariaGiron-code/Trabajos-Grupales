@@ -6,9 +6,12 @@ public class Vehiculo {
     String color;
     String marca;
 
-    public static void main(String[] args) {
-        System.out.println("Hello World");
-        System.out.println("PRUEBA EN GITHUB");
-        System.out.println("creada la clase");
+    // Constructor
+    public Vehiculo(String placa, double precio, String color, String marca ) {
+    this.placa = placa;
+    this.precio = precio;
+    this.color = color;
+    this.marca = marca;
     }
+
 }
