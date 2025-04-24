@@ -21,5 +21,8 @@ public class Vehiculo {
         System.out.println("Color: " + color);
         System.out.println("Marca: " + marca);
     }
+    public void frenar(){
+        System.out.println("El vehiculo esta frenando");
 
+    }
 }
